@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234489002269",
+    "firebase_url": "https://customer-management-d0b9e-default-rtdb.firebaseio.com",
+    "project_id": "customer-management-d0b9e",
+    "storage_bucket": "customer-management-d0b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234489002269:android:44568d4d1183c57eed49f4",
+        "android_client_info": {
+          "package_name": "com.kot104.baitapbuoi13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234489002269-o7kdqh3la1pcd333au2v6pee6jt10615.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi0VQH9F9MPomSV1Ork3HPFhW_NUcqfg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234489002269-o7kdqh3la1pcd333au2v6pee6jt10615.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
